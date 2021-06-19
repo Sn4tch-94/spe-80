@@ -6,7 +6,7 @@ import './HeroSection.css'
 export default function HeroSection() {
 	return (
 		<div className='hero-container'>
-			{/* <video src='/videos/Nature.mp4' autoPlay loop muted/> */}
+			<video src='/videos/Nature.mp4' autoPlay loop muted/>
 			<h1>LOREM IPSUM</h1>
 			<p>Donec vel turpis at</p>
 			<div className='hero-btns'>
