@@ -1,8 +1,33 @@
-.contact-container {
-	text-align: center;
+.contact {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	margin: 50px;
+	justify-content: space-evenly;
+}
+
+.title {
+	font-size: 3rem;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+	width: 60%;
+}
+
+.form-control {
+	display: flex;
+}
+
+.grid {
+	display: flex;
+	padding: 20px;
+	justify-content: space-around;
+}
+
+.field {
+	width: 40%;
+}
+
+.large-field {
+	width: 90%;
 }
