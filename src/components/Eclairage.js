@@ -7,63 +7,31 @@ export default function Eclairage() {
 			<h4 style={{display: 'flex', justifyContent: 'center', marginTop: '15px', marginBottom: '25px'}}>Eclairage</h4>
 			<ul className='items-line'>
 					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
 					/>
 					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
 					/>
 					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
 					/>
 					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
 					/>
 					<Item
-						title='Martin MH4'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-			</ul>
-			<ul className='items-line'>
-					<Item
-						title='Martin MH4'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-					<Item
-						title='Martin MH4'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-					<Item
-						title='Martin MH4'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-					<Item
-						title='Martin MH4'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
@@ -71,31 +39,63 @@ export default function Eclairage() {
 			</ul>
 			<ul className='items-line'>
 					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
 					/>
 					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
 					/>
 					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
 					/>
 					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
 					/>
 					<Item
-						title='Martin MH4'
+						title='Robe Esprite'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
+						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
+						price='250€ HT'
+					/>
+			</ul>
+			<ul className='items-line'>
+					<Item
+						title='Robe Esprite'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
+						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
+						price='250€ HT'
+					/>
+					<Item
+						title='Robe Esprite'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
+						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
+						price='250€ HT'
+					/>
+					<Item
+						title='Robe Esprite'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
+						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
+						price='250€ HT'
+					/>
+					<Item
+						title='Robe Esprite'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
+						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
+						price='250€ HT'
+					/>
+					<Item
+						title='Robe Esprite'
 						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
 						price='250€ HT'
