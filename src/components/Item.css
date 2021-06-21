@@ -1,0 +1,48 @@
+.item-container {
+	width: 250px;
+	overflow: hidden;
+	box-shadow: 0px 0px 15px -5px;
+	transition: 0.3s;
+	animation: ease-in-out;
+	border-radius: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.item-container:hover {
+	transform: scale(1.1);
+	box-shadow: 0px 0px 15px 0px;
+}
+
+.image-container img {
+	justify-content: center;
+	overflow: hidden;
+	height: 250px;
+}
+
+.item-content {
+	margin: 1rem;
+	margin-top: 0.5rem;
+}
+
+h3, p {
+	margin: 0;
+	padding: 0;
+	font-size: 1rem;
+}
+
+.item-title {
+	margin-bottom: 0.5rem;
+}
+
+.item-body {
+	margin-bottom: 0.5rem;
+}
+
+.item-price {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 0.5rem;
+	color: rgba(33, 150, 243, 1);
+	font-weight: bold;
+}

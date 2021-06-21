@@ -1,0 +1,13 @@
+.locations {
+	height: 100%;
+}
+
+.items-container {
+	width: 70%;
+}
+
+.items-line {
+	display: flex;
+	justify-content: space-evenly;
+	flex-flow: wrap;
+}

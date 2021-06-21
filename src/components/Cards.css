@@ -1,9 +1,10 @@
 .cards {
-	padding: 4rem;
+	padding: 1rem;
 	background: #fff;
 }
 
 h1 {
+	margin-top: 50px;
 	text-align: center;
 }
 
@@ -18,11 +19,11 @@ h1 {
 
 .cards__wrapper {
 	position: relative;
-	margin: 50px 0 45px;
+	margin-top: 50px;
 }
 
 .cards__items {
-	margin-bottom: 24px;
+	margin-bottom: 25px;
 }
 
 .cards__item {

@@ -5,23 +5,23 @@ import { Link } from 'react-router-dom';
 function Footer() {
 	return (
 		<div className='footer-container'>
-			<section class='social-media'>
-				<div class='social-media-wrap'>
-					<div class='footer-logo'>
+			<section className='social-media'>
+				<div className='social-media-wrap'>
+					<div className='footer-logo'>
 						<Link to='/' className='social-logo'>
 							SPE80
-							<i class='fab fa-typo3' />
+							<i className='fab fa-typo3' />
 						</Link>
 					</div>
-					<small class='website-rights'>SPE80 © 2021</small>
-					<div class='social-icons'>
+					<small className='website-rights'>SPE80 © 2021</small>
+					<div className='social-icons'>
 						<Link
-							class='social-icon-link facebook'
+							className='social-icon-link facebook'
 							to='/'
 							//target='_blank'
 							aria-label='Facebook'
 						>
-							<i class='fab fa-facebook-f' />
+							<i className='fab fa-facebook-f' />
 						</Link>
 					</div>
 				</div>
