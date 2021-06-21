@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import './Contact.css'
-import Footer from '../Footer'
 import { FormControl, InputLabel, TextField, Select, MenuItem, Button, Grid, Snackbar } from '@material-ui/core'
 import { MuiPickersUtilsProvider, KeyboardDatePicker } from '@material-ui/pickers'
 import DateFnsUtils from '@date-io/date-fns';

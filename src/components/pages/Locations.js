@@ -1,90 +1,25 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './Locations.css'
-import Item from '../Item'
-import Footer from '../Footer'
+import Sonorisation from '../Sonorisation'
+import Eclairage from '../Eclairage'
+import Structure from '../Structure'
+import Vidéo from '../Video'
+import Mobilier from '../Mobilier'
 
 export default function Locations() {
+	const [component, setcomponent] = useState(<Sonorisation/>)
+
 	return (
 		<div className='locations'>
+			<div className='menu-container'>
+				<button className='menu-button' onClick={() => setcomponent(<Sonorisation/>)}>Sonorisation</button>
+				<button className='menu-button' onClick={() => setcomponent(<Eclairage/>)}>Eclairage</button>
+				<button className='menu-button' onClick={() => setcomponent(<Structure/>)}>Structure</button>
+				<button className='menu-button' onClick={() => setcomponent(<Vidéo/>)}>Vidéo</button>
+				<button className='menu-button' onClick={() => setcomponent(<Mobilier/>)}>Mobilier</button>
+			</div>
 			<div className='items-container'>
-				<ul className='items-line'>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-				</ul>
-				<ul className='items-line'>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-				</ul>
-				<ul className='items-line'>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-				</ul>
+				{component}
 			</div>
 		</div>
 	)

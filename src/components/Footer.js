@@ -13,7 +13,11 @@ function Footer() {
 							<i className='fab fa-typo3' />
 						</Link>
 					</div>
-					<small className='website-rights'>SPE80 © 2021</small>
+					<div className='website-rights'>
+						<small className='small'>80160 Plachy-Buyon</small>
+						<small className='small'>SIREN : 527 838 221</small>
+						<small className='small'>SPE80 © 2021</small>
+					</div>
 					<div className='social-icons'>
 						<Link
 							className='social-icon-link facebook'
