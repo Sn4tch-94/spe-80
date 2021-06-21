@@ -7,97 +7,97 @@ export default function Structure() {
 			<ul className='items-line'>
 				<Item
 					title='Cercle 290mm'
-					imageUrl='./images/struct_cercle.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
 					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
 					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 			</ul>
 			<ul className='items-line'>
 				<Item
 					title='Cercle 290mm'
-					imageUrl='./images/struct_cercle.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
 					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
 					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 			</ul>
 			<ul className='items-line'>
 				<Item
 					title='Cercle 290mm'
-					imageUrl='./images/struct_cercle.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
 					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
 					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 				<Item
-						title='Cercle 290mm'
-						imageUrl='./images/struct_cercle.png'
-						body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
-						price='90€ HT'
+					title='Cercle 290mm'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/structcercle.png'
+					body='Cercle en structure aluminium ASD SZ 290 Carrée. Diamètre de 2m (200cm) extérieur. Fournis avec kits de couplage'
+					price='90€ HT'
 				/>
 			</ul>
 		</div>

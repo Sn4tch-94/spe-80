@@ -7,63 +7,31 @@ export default function Mobilier() {
 			<ul className='items-line'>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
-					body='Triangle blanc 3x4,5M pour habillage ou décoration'
-					price='70€ HT'
-				/>
-			</ul>
-			<ul className='items-line'>
-				<Item
-					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
-					body='Triangle blanc 3x4,5M pour habillage ou décoration'
-					price='70€ HT'
-				/>
-				<Item
-					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
-					body='Triangle blanc 3x4,5M pour habillage ou décoration'
-					price='70€ HT'
-				/>
-				<Item
-					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
-					body='Triangle blanc 3x4,5M pour habillage ou décoration'
-					price='70€ HT'
-				/>
-				<Item
-					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
-					body='Triangle blanc 3x4,5M pour habillage ou décoration'
-					price='70€ HT'
-				/>
-				<Item
-					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>
@@ -71,31 +39,63 @@ export default function Mobilier() {
 			<ul className='items-line'>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>
 				<Item
 					title='Toile velum extensible'
-					imageUrl='./images/tissus_lycra.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
+					body='Triangle blanc 3x4,5M pour habillage ou décoration'
+					price='70€ HT'
+				/>
+			</ul>
+			<ul className='items-line'>
+				<Item
+					title='Toile velum extensible'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
+					body='Triangle blanc 3x4,5M pour habillage ou décoration'
+					price='70€ HT'
+				/>
+				<Item
+					title='Toile velum extensible'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
+					body='Triangle blanc 3x4,5M pour habillage ou décoration'
+					price='70€ HT'
+				/>
+				<Item
+					title='Toile velum extensible'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
+					body='Triangle blanc 3x4,5M pour habillage ou décoration'
+					price='70€ HT'
+				/>
+				<Item
+					title='Toile velum extensible'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
+					body='Triangle blanc 3x4,5M pour habillage ou décoration'
+					price='70€ HT'
+				/>
+				<Item
+					title='Toile velum extensible'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/tissuslycra.png'
 					body='Triangle blanc 3x4,5M pour habillage ou décoration'
 					price='70€ HT'
 				/>

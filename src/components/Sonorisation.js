@@ -7,63 +7,31 @@ export default function Sonorisation() {
 			<ul className='items-line'>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-				</ul>
-				<ul className='items-line'>
-					<Item
-						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>
@@ -71,31 +39,63 @@ export default function Sonorisation() {
 				<ul className='items-line'>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>
 					<Item
 						title='JBL Eon One'
-						imageUrl='./images/jbl_eon_one.jpg'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
+						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
+						price='75€ HT'
+					/>
+				</ul>
+				<ul className='items-line'>
+					<Item
+						title='JBL Eon One'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
+						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
+						price='75€ HT'
+					/>
+					<Item
+						title='JBL Eon One'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
+						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
+						price='75€ HT'
+					/>
+					<Item
+						title='JBL Eon One'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
+						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
+						price='75€ HT'
+					/>
+					<Item
+						title='JBL Eon One'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
+						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
+						price='75€ HT'
+					/>
+					<Item
+						title='JBL Eon One'
+						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
 						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
 						price='75€ HT'
 					/>

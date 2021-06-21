@@ -7,63 +7,31 @@ export default function Vidéo() {
 			<ul className='items-line'>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
-					body="Toile d'écran de projection pour vidéoprojecteur."
-					price='70€ HT'
-				/>
-			</ul>
-			<ul className='items-line'>
-				<Item
-					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
-					body="Toile d'écran de projection pour vidéoprojecteur."
-					price='70€ HT'
-				/>
-				<Item
-					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
-					body="Toile d'écran de projection pour vidéoprojecteur."
-					price='70€ HT'
-				/>
-				<Item
-					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
-					body="Toile d'écran de projection pour vidéoprojecteur."
-					price='70€ HT'
-				/>
-				<Item
-					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
-					body="Toile d'écran de projection pour vidéoprojecteur."
-					price='70€ HT'
-				/>
-				<Item
-					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
@@ -71,31 +39,63 @@ export default function Vidéo() {
 			<ul className='items-line'>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
 				<Item
 					title='Ecran valise 4x3m'
-					imageUrl='./images/ecran_valise_4x3.png'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
+					body="Toile d'écran de projection pour vidéoprojecteur."
+					price='70€ HT'
+				/>
+			</ul>
+			<ul className='items-line'>
+				<Item
+					title='Ecran valise 4x3m'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
+					body="Toile d'écran de projection pour vidéoprojecteur."
+					price='70€ HT'
+				/>
+				<Item
+					title='Ecran valise 4x3m'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
+					body="Toile d'écran de projection pour vidéoprojecteur."
+					price='70€ HT'
+				/>
+				<Item
+					title='Ecran valise 4x3m'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
+					body="Toile d'écran de projection pour vidéoprojecteur."
+					price='70€ HT'
+				/>
+				<Item
+					title='Ecran valise 4x3m'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
+					body="Toile d'écran de projection pour vidéoprojecteur."
+					price='70€ HT'
+				/>
+				<Item
+					title='Ecran valise 4x3m'
+					imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/ecranvalise.png'
 					body="Toile d'écran de projection pour vidéoprojecteur."
 					price='70€ HT'
 				/>
