@@ -12,11 +12,13 @@ export default function Locations() {
 	return (
 		<div className='locations'>
 			<div className='menu-container'>
-				<button className='menu-button' onClick={() => setcomponent(<Sonorisation/>)}>Sonorisation</button>
-				<button className='menu-button' onClick={() => setcomponent(<Eclairage/>)}>Eclairage</button>
-				<button className='menu-button' onClick={() => setcomponent(<Structure/>)}>Structure</button>
-				<button className='menu-button' onClick={() => setcomponent(<Vidéo/>)}>Vidéo</button>
-				<button className='menu-button' onClick={() => setcomponent(<Mobilier/>)}>Mobilier</button>
+				<div className='menu'>
+					<button className='menu-button' onClick={() => {setcomponent(<Sonorisation/>); window.scrollTo({top: 0})}}>Sonorisation</button>
+					<button className='menu-button' onClick={() => {setcomponent(<Eclairage/>); window.scrollTo({top: 0})}}>Eclairage</button>
+					<button className='menu-button' onClick={() => {setcomponent(<Structure/>); window.scrollTo({top: 0})}}>Structure</button>
+					<button className='menu-button' onClick={() => {setcomponent(<Vidéo/>); window.scrollTo({top: 0})}}>Vidéo</button>
+					<button className='menu-button' onClick={() => {setcomponent(<Mobilier/>); window.scrollTo({top: 0})}}>Mobilier</button>
+				</div>
 			</div>
 			<div className='items-container'>
 				{component}

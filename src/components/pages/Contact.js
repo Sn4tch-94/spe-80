@@ -65,7 +65,7 @@ export default function Contact() {
 
 	return (
 		<div className='contact'>
-      		<h1 className='title'>Décrivez votre demande</h1>
+      		<h1 className='title'>Devis gratuit</h1>
       		<form className='form' onSubmit={onSubmit}>
 		  		<FormControl fullWidth className='form-control'>
 					<Grid className='grid'>
@@ -98,14 +98,14 @@ export default function Contact() {
 						</MuiPickersUtilsProvider>
 					</Grid>
 					<Grid className='grid'>
-						<TextField className='large-field' label="Message" multiline rows={4} variant="outlined" value={message} onChange={event => setMessage(event.target.value)}/>
+						<TextField className='large-field' label="Décrivez votre demande" multiline rows={4} variant="outlined" value={message} onChange={event => setMessage(event.target.value)}/>
 					</Grid>
 					<Grid className='grid'>
 						<Button className='field' type="submit" variant="contained" color="primary" onClick={handleClick}>Envoyer</Button>
 					</Grid>
 					<Grid className='grid'>
 						<Snackbar open={open} autoHideDuration={6000} onClose={handleClose}>
-  							<Alert onClose={handleClose} severity="success" variant="filled">Message Envoyé</Alert>
+  							<Alert onClose={handleClose} severity="success" variant="filled">Message Envoyé !</Alert>
 						</Snackbar>
 					</Grid>
 				</FormControl>

@@ -4,6 +4,7 @@ import Item from './Item'
 export default function Sonorisation() {
 	return (
 		<div>
+			<h4 style={{display: 'flex', justifyContent: 'center', marginTop: '15px', marginBottom: '25px'}}>Sonorisation</h4>
 			<ul className='items-line'>
 					<Item
 						title='JBL Eon One'
