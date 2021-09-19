@@ -8,7 +8,7 @@ function Footer() {
 			<section className='social-media'>
 				<div className='social-media-wrap'>
 					<div className='footer-logo'>
-						<Link to='/' className='social-logo'>
+						<Link to='/' className='social-logo' onClick={() => window.scrollTo({top: 0})} >
 							SPE80
 							<i className='fab fa-typo3' />
 						</Link>
@@ -19,14 +19,13 @@ function Footer() {
 						<small className='small'>SPE80 © 2021</small>
 					</div>
 					<div className='social-icons'>
-						<Link
+						<a
 							className='social-icon-link facebook'
-							to='/'
-							//target='_blank'
+							href='https://www.facebook.com/animationsonorisation.retourne'
 							aria-label='Facebook'
 						>
 							<i className='fab fa-facebook-f' />
-						</Link>
+						</a>
 					</div>
 				</div>
 			</section>

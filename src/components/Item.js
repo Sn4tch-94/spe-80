@@ -14,9 +14,9 @@ export default function Item({title, imageUrl, body, price}) {
 				<div className='item-body'>
 					<p>{body}</p>
 				</div>
-				<div className='item-price'>
-					<p>{price}</p>
-				</div>
+			</div>
+			<div className='item-price'>
+				<p>{price}</p>
 			</div>
 		</div>
 	)

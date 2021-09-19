@@ -11,7 +11,7 @@ export default function Navbar() {
 	return (
 		<nav className='navbar'>
 			<div className='navbar-container'>
-				<Link to='/' className='navbar-logo'>
+				<Link to='/' className='navbar-logo' onClick={() => window.scrollTo({top: 0})}>
 					SPE80
 					<i className="fab fa-typo3"></i>
 				</Link>
