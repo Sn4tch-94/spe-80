@@ -1,5 +1,6 @@
 {
   "name": "spe-80",
+  "homepage": "https://spe80.fr",
   "version": "1.18.0",
   "engines": {
     "node": "14.17.6"
