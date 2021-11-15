@@ -1,10 +1,17 @@
 import React from 'react'
 import Item from './Item'
 
-import white_curve from '../ressources/images/nicols_white_curve_2.jpg'
-import afx_1r from '../ressources/images/afx_beam1r_1.jpg'
-import birdy_xs from '../ressources/images/nicols_birdy_xs_iii_1.jpg'
-import tmh_x4 from '../ressources/images/eurolite_tmh_x4_3.jpg'
+import white_curve from '../ressources/images/nicols_white_curve.jpg'
+import afx_1r from '../ressources/images/afx_beam1r.jpg'
+import birdy_xs from '../ressources/images/nicols_birdy_xs_iii.jpg'
+import tmh_x4 from '../ressources/images/eurolite_tmh_x4.jpg'
+import atomix_3000 from '../ressources/images/Martin_Atomic3000.jpeg'
+
+import shehds_par64 from '../ressources/images/shehds_18x12w.jpeg'
+import blackgun_uv from '../ressources/images/blackgun_uv.jpeg'
+import cameo_multifx from '../ressources/images/cameo_multifxbar.jpeg'
+import adj_minidekker from '../ressources/images/adj_minidekker.jpeg'
+import mini_spider from '../ressources/images/fungeneration_minispider_2.jpeg'
 
 export default function Eclairage() {
 	return (
@@ -36,74 +43,42 @@ export default function Eclairage() {
 						price='80€ TTC'
 					/>
 					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
+						title='Atomic 3000'
+						imageUrl={atomix_3000}
+						body="Puissant stroboscope Xenon de 3000 Watts impact lev, hyper brillant, pilotable en DMX."
+						price='20€ TTC'
 					/>
 			</ul>
 			<ul className='items-line'>
 					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
+						title='Shehds Par 64'
+						imageUrl={shehds_par64}
+						body="Puissant par multifonctions doté de 18 led RGBW pilotables de 12w chacune, pour une puissance total de 216w."
+						price='5€ TTC'
 					/>
 					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
+						title='Blackgun UV'
+						imageUrl={blackgun_uv}
+						body="Projecteur ultraviolet extrêmement puissant avec réflecteur haute qualité pour une lumière noire intense."
+						price='15€ TTC'
 					/>
 					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
+						title='Caméo MultiFX Bar'
+						imageUrl={cameo_multifx}
+						body="Solution complète avec 3 effets : 4 spots, 2 derby et 4 stroboscopes. Mise en œuvre très rapide, programmes intégrés."
+						price='40€ TTC'
 					/>
 					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
+						title='ADJ Mini Dekker'
+						imageUrl={adj_minidekker}
+						body="Equipé de 2 led RGBW de 10W chacune produisants des faisceaux multicolores à partir de 48 lentilles."
+						price='5€ TTC'
 					/>
 					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
+						title='Fun Generation MiniSpider'
+						imageUrl={mini_spider}
 						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-			</ul>
-			<ul className='items-line'>
-					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
-					/>
-					<Item
-						title='Robe Esprite'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/assesprite.png'
-						body='Lyre professionelle de dernière génération. Nouvelle venue de la marque ROBE. Puissance de 650W à gobos variables.'
-						price='250€ HT'
+						price='15€ TTC'
 					/>
 			</ul>
 		</div>

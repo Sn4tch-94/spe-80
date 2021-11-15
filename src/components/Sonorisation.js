@@ -1,6 +1,11 @@
 import React from 'react'
 import Item from './Item'
 
+import pioneer_cdj850 from '../ressources/images/pioneer_cdj_850_pack.jpeg'
+import pioneer_cdj900 from '../ressources/images/pioneer_cdj_900_pack.jpg'
+import yamaha_mg16x from '../ressources/images/yamaha_mg16xu_front.jpg'
+import numark_nv2 from '../ressources/images/numark_nv2_front.jpeg'
+
 export default function Sonorisation() {
 	return (
 		<div>
@@ -8,33 +13,33 @@ export default function Sonorisation() {
 			<ul className='items-line'>
 					<Item
 						title='Régie Pioneer CDJ 850'
-						imageUrl='https://www.pioneerdj.com/-/media/pioneerdj/images/products/player/cdj-850/black/cdj-850-set-angle.png?h=400&w=500&hash=5B3DAD3F4AE5529CD8C660A0C0C6590C'
-						body='Lecteur multi-formats pour DJ. De format 12" vous aurez accès aux fonctionnalits les plus précieuses pour offrir un set DJ précis et de qualité.'
+						imageUrl={pioneer_cdj850}
+						body="Lecteur multi-formats pour DJ. De format 12' vous aurez accès aux fonctionnalits les plus précieuses pour offrir un set DJ précis et de qualité."
 						price='200€ TTC'
 					/>
 					<Item
 						title='Régie Pioneer CDJ 900'
-						imageUrl='https://www.sonolight.fr/wp-content/uploads/2020/08/TDSL_REGIEDJ_PIONEER.jpg'
-						body='Lecteur mulit-formats faisant partie des nouveaux modèles haut de gamme de chez Pioneer.'
-						price='250€ HT'
+						imageUrl={pioneer_cdj900}
+						body="Lecteur mulit-formats faisant partie des nouveaux modèles haut de gamme de chez Pioneer."
+						price='150€ HT'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='Yamaha MG16XU'
+						imageUrl={yamaha_mg16x}
+						body="Console de mixage analogique polyvalente 16 canaux, 10 entrée, dotée d'une alimentation fantome 48V"
+						price='60€ TTC'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='Console t.mix'
+						imageUrl=""
+						body="Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée."
+						price='50€ TTC'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='Numark NVII'
+						imageUrl={numark_nv2}
+						body="Contrôleur DJ USB à 4 Decks equipée de deux écrans couleurs, Jog Wheels en Métal 5 pouces, 16 Pads Sensibles à la vélocité."
+						price='60€ TTC'
 					/>
 				</ul>
 				<ul className='items-line'>
