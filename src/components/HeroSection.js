@@ -12,7 +12,6 @@ import hero4 from '../ressources/images/hero4.jpeg' // 'https://weezevent.com/wp
 import hero5 from '../ressources/images/hero5.jpeg' // 'https://www.parisbouge.com/build/images/event-category-cover-pictures-soiree.4486070b.jpg',
 
 export default function HeroSection() {
-	//TODO: Dowload images to build locally w/ internet conection
 	const images = [ hero1, hero2, hero3, hero4, hero5 ]
 
 	return (

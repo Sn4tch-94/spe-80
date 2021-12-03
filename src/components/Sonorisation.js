@@ -5,23 +5,32 @@ import pioneer_cdj850 from '../ressources/images/pioneer_cdj_850_pack.jpeg'
 import pioneer_cdj900 from '../ressources/images/pioneer_cdj_900_pack.jpg'
 import yamaha_mg16x from '../ressources/images/yamaha_mg16xu_front.jpg'
 import numark_nv2 from '../ressources/images/numark_nv2_front.jpeg'
+import tmix_1202 from '../ressources/images/tmix_xmix_1202fx.jpeg'
+import apg_system from '../ressources/images/apg_systeme_kit.jpeg'
+import audiophony_system from '../ressources/images/audiophony_system_kit.jpeg'
+import mackie_thumps from '../ressources/images/mackie_thump_15.jpg'
+import bst_bwa220 from '../ressources/images/bst_bwa220_front.jpeg'
+import shure_sm58 from '../ressources/images/shure_sm58.jpeg'
+import stageline_dm3s from '../ressources/images/stageline_dm3s.jpg'
+import shure_pg58 from '../ressources/images/shure_pg58.jpeg'
+import akg_wms420 from '../ressources/images/akg_wms420.jpeg'
 
 export default function Sonorisation() {
 	return (
-		<div>
+		<div style={{ margin: '30px' }}>
 			<h4 style={{display: 'flex', justifyContent: 'center', marginTop: '15px', marginBottom: '25px'}}>Sonorisation</h4>
 			<ul className='items-line'>
 					<Item
 						title='Régie Pioneer CDJ 850'
 						imageUrl={pioneer_cdj850}
-						body="Lecteur multi-formats pour DJ. De format 12' vous aurez accès aux fonctionnalits les plus précieuses pour offrir un set DJ précis et de qualité."
+						body="Lecteur multi-formats pour DJ. De format 12'' vous aurez accès aux fonctionnalits les plus précieuses pour offrir un set DJ précis et de qualité."
 						price='200€ TTC'
 					/>
 					<Item
 						title='Régie Pioneer CDJ 900'
 						imageUrl={pioneer_cdj900}
 						body="Lecteur mulit-formats faisant partie des nouveaux modèles haut de gamme de chez Pioneer."
-						price='150€ HT'
+						price='150€ TTC'
 					/>
 					<Item
 						title='Yamaha MG16XU'
@@ -31,7 +40,7 @@ export default function Sonorisation() {
 					/>
 					<Item
 						title='Console t.mix'
-						imageUrl=""
+						imageUrl={tmix_1202}
 						body="Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée."
 						price='50€ TTC'
 					/>
@@ -41,71 +50,55 @@ export default function Sonorisation() {
 						body="Contrôleur DJ USB à 4 Decks equipée de deux écrans couleurs, Jog Wheels en Métal 5 pouces, 16 Pads Sensibles à la vélocité."
 						price='60€ TTC'
 					/>
-				</ul>
-				<ul className='items-line'>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='Système son APG'
+						imageUrl={apg_system}
+						body="Composé de 4 caissons 146S et de 4 têtes MC2, ce kit prêt a l'emploi est capable de sonoriser tout types d'évènements grâce à sa puissance de 2800W."
+						price='Prix sur demande'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='Système son Audiophony'
+						imageUrl={audiophony_system}
+						body="D'une puissance de 1600W, ce kit polyvalent se démarque par sa qualitée audio ainsi que par son encombrement réduit. Il est adapté pour des évènement de petites taille."
+						price='200€ TTC'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title="Mackie thumps 15''"
+						imageUrl={mackie_thumps}
+						body="Enceinte de sonorisation active plug&play compacte qui convient pour une large variété d'applications. Possibilités d'installation sur pied, 2 unités disponibles."
+						price='25€ TTC'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='BST BWA 220'
+						imageUrl={bst_bwa220}
+						body="Enceinte mobile autonome amplifiée fonctionnant sur batterie. Lecteur CD/USB/SD, micro et bluetooth intégré."
+						price='30€ TTC'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-				</ul>
-				<ul className='items-line'>
-					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='Shure SM58'
+						imageUrl={shure_sm58}
+						body="Microphone filaire légendaire de la marque SHURE, devenu référence mondiale grâce à sa technologie ainsi qu'à sa robustesse."
+						price='10€ TTC'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='StageLine DM3S'
+						imageUrl={stageline_dm3s}
+						body="Microphone filaire grand public qui se veut polyvalent. D'une qualitée convenable, il est conseillé pour une utilisation type conférence."
+						price='10€ TTC'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='Shure PG58'
+						imageUrl={shure_pg58}
+						body="Microphone sans fil qui combine fiabilité et simplicité d'utilisation, pensé pour accentuer l'intelligibilitée de la voix."
+						price='20€ TTC'
 					/>
 					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
+						title='AKG WMS420'
+						imageUrl={akg_wms420}
+						body="Micro sans fil de qualité professionelle qui se caractérise par son viveau de gain élévé qui lui permet d'être efficace même dans des situations bruyantes."
+						price='20€ TTC'
 					/>
-					<Item
-						title='JBL Eon One'
-						imageUrl='http://www.cynergie-sonorisation-live.com/catalogue/jbleon1.png'
-						body='Système de diffusion Line Array tout-en-un. Connectivité Bluetooth intégrée.'
-						price='75€ HT'
-					/>
-				</ul>
+			</ul>
 		</div>
 	)
 }
