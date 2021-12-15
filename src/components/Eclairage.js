@@ -15,7 +15,7 @@ import mini_spider from '../ressources/images/fungeneration_minispider_2.jpeg'
 
 export default function Eclairage() {
 	return (
-		<div>
+		<div style={{ margin: '30px' }}>
 			<h4 style={{display: 'flex', justifyContent: 'center', marginTop: '15px', marginBottom: '25px'}}>Eclairage</h4>
 			<ul className='items-line'>
 					<Item
@@ -48,8 +48,6 @@ export default function Eclairage() {
 						body="Puissant stroboscope Xenon de 3000 Watts impact lev, hyper brillant, pilotable en DMX."
 						price='20€ TTC'
 					/>
-			</ul>
-			<ul className='items-line'>
 					<Item
 						title='Shehds Par 64'
 						imageUrl={shehds_par64}

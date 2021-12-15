@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom';
 function Footer() {
 	return (
 		<div className='footer-container'>
-			<section className='social-media'>
-				<div className='social-media-wrap'>
+			{/* <section className='social-media'> */}
+				<div className='footer-wrap'>
 					<div className='footer-logo'>
 						<Link to='/' className='social-logo' onClick={() => window.scrollTo({top: 0})} >
 							SPE80
@@ -20,7 +20,7 @@ function Footer() {
 					</div>
 					<div className='social-icons'>
 						<a
-							className='social-icon-link facebook'
+							className='social-icon-link'
 							href='https://www.facebook.com/animationsonorisation.retourne'
 							aria-label='Facebook'
 						>
@@ -28,7 +28,7 @@ function Footer() {
 						</a>
 					</div>
 				</div>
-			</section>
+			{/* </section> */}
 		</div>
 	);
 }
