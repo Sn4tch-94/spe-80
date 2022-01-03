@@ -23,19 +23,19 @@ export default function Sonorisation() {
 					<Item
 						title='Régie Pioneer CDJ 850'
 						imageUrl={pioneer_cdj850}
-						body="Lecteur multi-formats pour DJ. De format 12'' vous aurez accès aux fonctionnalits les plus précieuses pour offrir un set DJ précis et de qualité."
+						body="Lecteur multi-format pour DJ. De format 12'' vous aurez accès aux fonctionnalités les plus précieuses pour offrir un set DJ précis et de qualité."
 						price='200€ TTC'
 					/>
 					<Item
 						title='Régie Pioneer CDJ 900'
 						imageUrl={pioneer_cdj900}
-						body="Lecteur mulit-formats faisant partie des nouveaux modèles haut de gamme de chez Pioneer."
+						body="Lecteur multi-format faisant partie des nouveaux modèles haut de gamme de chez Pioneer."
 						price='150€ TTC'
 					/>
 					<Item
 						title='Yamaha MG16XU'
 						imageUrl={yamaha_mg16x}
-						body="Console de mixage analogique polyvalente 16 canaux, 10 entrée, dotée d'une alimentation fantome 48V"
+						body="Console de mixage analogique polyvalente 16 canaux, 10 entrées, dotée d'une alimentation fantome 48V"
 						price='60€ TTC'
 					/>
 					<Item
@@ -47,25 +47,25 @@ export default function Sonorisation() {
 					<Item
 						title='Numark NVII'
 						imageUrl={numark_nv2}
-						body="Contrôleur DJ USB à 4 Decks equipée de deux écrans couleurs, Jog Wheels en Métal 5 pouces, 16 Pads Sensibles à la vélocité."
+						body="Contrôleur DJ USB à 4 Decks equipés de deux écrans couleurs, Jog Wheels en Métal 5 pouces, 16 Pads Sensibles à la vélocité."
 						price='60€ TTC'
 					/>
 					<Item
 						title='Système son APG'
 						imageUrl={apg_system}
-						body="Composé de 4 caissons 146S et de 4 têtes MC2, ce kit prêt a l'emploi est capable de sonoriser tout types d'évènements grâce à sa puissance de 2800W."
+						body="Composé de 4 caissons 146S et de 4 têtes MC2, ce kit prêt a l'emploi est capable de sonoriser tout type d'évènement grâce à sa puissance de 2800W."
 						price='Prix sur demande'
 					/>
 					<Item
 						title='Système son Audiophony'
 						imageUrl={audiophony_system}
-						body="D'une puissance de 1600W, ce kit polyvalent se démarque par sa qualitée audio ainsi que par son encombrement réduit. Il est adapté pour des évènement de petites taille."
+						body="D'une puissance de 1600W, ce kit polyvalent se démarque par sa qualité audio ainsi que par son encombrement réduit. Il est adapté pour des évènements de petite taille."
 						price='200€ TTC'
 					/>
 					<Item
 						title="Mackie thumps 15''"
 						imageUrl={mackie_thumps}
-						body="Enceinte de sonorisation active plug&play compacte qui convient pour une large variété d'applications. Possibilités d'installation sur pied, 2 unités disponibles."
+						body="Enceinte de sonorisation active plug&play compacte qui convient pour une large variété d'applications. Possibilité d'installation sur pied, 2 unités disponibles."
 						price='25€ TTC'
 					/>
 					<Item
@@ -83,19 +83,19 @@ export default function Sonorisation() {
 					<Item
 						title='StageLine DM3S'
 						imageUrl={stageline_dm3s}
-						body="Microphone filaire grand public qui se veut polyvalent. D'une qualitée convenable, il est conseillé pour une utilisation type conférence."
+						body="Microphone filaire grand public qui se veut polyvalent. D'une qualité convenable, il est conseillé pour une utilisation type conférence."
 						price='10€ TTC'
 					/>
 					<Item
 						title='Shure PG58'
 						imageUrl={shure_pg58}
-						body="Microphone sans fil qui combine fiabilité et simplicité d'utilisation, pensé pour accentuer l'intelligibilitée de la voix."
+						body="Microphone sans fil qui combine fiabilité et simplicité d'utilisation, pensé pour accentuer l'intelligibilité de la voix."
 						price='20€ TTC'
 					/>
 					<Item
 						title='AKG WMS420'
 						imageUrl={akg_wms420}
-						body="Micro sans fil de qualité professionelle qui se caractérise par son viveau de gain élévé qui lui permet d'être efficace même dans des situations bruyantes."
+						body="Micro sans fil de qualité professionelle qui se caractérise par son niveau de gain élévé qui lui permet d'être efficace même dans des situations bruyantes."
 						price='20€ TTC'
 					/>
 			</ul>

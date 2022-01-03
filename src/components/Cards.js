@@ -11,7 +11,7 @@ export default function Cards() {
 					<ul className='cards__items'>
 						<CardItem
 							src='https://dams-event.fr/wp-content/uploads/2018/10/dj-paris.jpg'
-							text='N°1 sur la culture musicale. Demandez-nous un titre, nous l’avons !'
+							text='N°1 de la culture musicale. Demandez-nous un titre, nous l’avons !'
 							label='label1'
 							path='/prestations'
 						/>
@@ -25,7 +25,7 @@ export default function Cards() {
 					<ul className='cards__items'>
 						<CardItem
 							src='https://dams-event.fr/wp-content/uploads/2018/09/bg-mariage-2.jpg'
-							text="Profitez de chaque instants, on s'occupe du reste."
+							text="Profitez de chaque instant, on s'occupe du reste."
 							label='label3'
 							path='/prestations'
 						/>

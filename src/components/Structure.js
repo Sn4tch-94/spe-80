@@ -18,31 +18,31 @@ export default function Structure() {
 				<Item
 					title="Structure alu 1M"
 					imageUrl={asd_290}
-					body="Structure de 1M fabriquée en France par ASD référence SX 290. Conçue pour l'agencement de stands d'expositions, scènes de théâtre, salles de spectacle."
+					body="Structure de 1M fabriquée en France par ASD, référence SX 290. Conçue pour l'agencement de stands d'expositions, scènes de théâtre, salles de spectacle."
 					price='10€ TTC'
 				/>
 				<Item
 					title="Structure alu 2M"
 					imageUrl={asd_290}
-					body="Structure de 2M fabriquée en France par ASD référence SX 290. Conçue pour l'agencement de stands d'expositions, scènes de théâtre, salles de spectacle."
+					body="Structure de 2M fabriquée en France par ASD, référence SX 290. Conçue pour l'agencement de stands d'expositions, scènes de théâtre, salles de spectacle."
 					price='5€ TTC'
 				/>
 				<Item
-					title="Angle 90 degrées"
+					title="Angle 90 degrés"
 					imageUrl={asd_angle}
-					body="Angle 90 degrées qui permet de raccorder 2 barres ensemble. Manchons et goupilles de fications fournis."
+					body="Angle 90 degrés qui permet de raccorder 2 barres ensemble. Manchons et goupilles de fixations fournis."
 					price='5€ TTC'
 				/>
 				<Item
 					title="Platine légère"
 					imageUrl={asd_platine}
-					body="Platine qui permet de poser une extrémitée de structure au solde manière stable."
+					body="Platine qui permet de poser une extrémité de structure au sol, de manière stable."
 					price='5€ TTC'
 				/>
 				<Item
 					title="Embase lourde"
 					imageUrl={asd_embase}
-					body="Embase lestée de 60Kg servant a stabiliser des structures de grandes tailles."
+					body="Embase lestée de 60Kg servant à stabiliser des structures de grandes tailles."
 					price='25€ TTC'
 				/>
 				<Item
@@ -54,19 +54,19 @@ export default function Structure() {
 				<Item
 					title="Pied AL 250"
 					imageUrl={asd_alt250}
-					body="Pied de levage ASD à vis, permettant une charge de 70Kg à 2,50m"
+					body="Pied de levage ASD à vis, permettant une charge de 70Kg, à 2,50m de hauteur"
 					price='10€ TTC'
 				/>
 				<Item
 					title="Pied ALT 400"
 					imageUrl={asd_alt400}
-					body="Pied de levage ASD à treuil, permettant une charge de 80Kg à 4m"
+					body="Pied de levage ASD à treuil, permettant une charge de 80Kg, à 4m de hauteur"
 					price='10€ TTC'
 				/>
 				<Item
-					title="Pied alt550"
+					title="Pied ALT 550"
 					imageUrl={asd_alt550}
-					body="Pied de levage professionnel ASD à treuil, permettant une charge de 225Kg à 5,50m"
+					body="Pied de levage professionnel ASD à treuil, permettant une charge de 225Kg, à 5,50m de hauteur"
 					price='15€ TTC'
 				/>
 			</ul>

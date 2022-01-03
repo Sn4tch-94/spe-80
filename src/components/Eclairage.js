@@ -21,7 +21,7 @@ export default function Eclairage() {
 					<Item
 						title='Nicols White Curve'
 						imageUrl={white_curve}
-						body='Avec ses 8 LED blanche pilotable, cette lyre propose des effets étonnants du fait de ses multifaisceaux et de sa motorisation.'
+						body='Avec ses 8 LED blanches pilotables, cette lyre propose des effets étonnants du fait de ses multifaisceaux et de sa motorisation.'
 						price='15€ TTC'
 					/>
 					<Item
@@ -33,25 +33,25 @@ export default function Eclairage() {
 					<Item
 						title='Nicols Birdy XS III'
 						imageUrl={birdy_xs}
-						body="Une petite lyre Spot équipé d'une LED 30W avec un cercle lumineux pour des effets surprenants et inovants."
+						body="Une petite lyre Spot équipée d'une LED 30W avec un cercle lumineux pour des effets surprenants et innovants."
 						price='15€ TTC'
 					/>
 					<Item
 						title='Eurolite TMH-X4'
 						imageUrl={tmh_x4}
-						body="Lyre compacte équipée de 19 puissantes LED 15W qui convient pour tout types d'évènements."
+						body="Lyre compacte équipée de 19 puissantes LED 15W qui convient pour tout type d'évènement."
 						price='80€ TTC'
 					/>
 					<Item
 						title='Atomic 3000'
 						imageUrl={atomix_3000}
-						body="Puissant stroboscope Xenon de 3000 Watts impact lev, hyper brillant, pilotable en DMX."
+						body="Puissant stroboscope Xenon de 3000 Watts à impact, hyper brillant, pilotable en DMX."
 						price='20€ TTC'
 					/>
 					<Item
 						title='Shehds Par 64'
 						imageUrl={shehds_par64}
-						body="Puissant par multifonctions doté de 18 led RGBW pilotables de 12w chacune, pour une puissance total de 216w."
+						body="Par multifonctions puissant, doté de 18 LED RGBW pilotables de 12W chacune, pour une puissance totale de 216W."
 						price='5€ TTC'
 					/>
 					<Item
@@ -69,7 +69,7 @@ export default function Eclairage() {
 					<Item
 						title='ADJ Mini Dekker'
 						imageUrl={adj_minidekker}
-						body="Equipé de 2 led RGBW de 10W chacune produisants des faisceaux multicolores à partir de 48 lentilles."
+						body="Equipé de 2 LED RGBW de 10W chacune, produisants des faisceaux multicolores à partir de 48 lentilles."
 						price='5€ TTC'
 					/>
 					<Item
