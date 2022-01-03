@@ -7,7 +7,7 @@ import birdy_xs from '../ressources/images/nicols_birdy_xs_iii.jpg'
 import tmh_x4 from '../ressources/images/eurolite_tmh_x4.jpg'
 import atomix_3000 from '../ressources/images/Martin_Atomic3000.jpeg'
 
-import shehds_par64 from '../ressources/images/shehds_18x12w.jpeg'
+import shehds_par64 from '../ressources/images/shehds_18x12w.webp'
 import blackgun_uv from '../ressources/images/blackgun_uv.jpeg'
 import cameo_multifx from '../ressources/images/cameo_multifxbar.jpeg'
 import adj_minidekker from '../ressources/images/adj_minidekker.jpeg'
@@ -51,7 +51,7 @@ export default function Eclairage() {
 					<Item
 						title='Shehds Par 64'
 						imageUrl={shehds_par64}
-						body="Par multifonctions puissant, doté de 18 LED RGBW pilotables de 12W chacune, pour une puissance totale de 216W."
+						body="Par multifonctions puissant, doté de 18 LED RGBW pilotables de 12W chacune, utilisable en eclairage architectural."
 						price='5€ TTC'
 					/>
 					<Item

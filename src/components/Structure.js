@@ -3,6 +3,7 @@ import Item from './Item'
 
 import asd_290 from '../ressources/images/asd_290.jpeg'
 import asd_angle from '../ressources/images/asd_angle.jpeg'
+import asd_angle_3 from '../ressources/images/asd_angle_3.jpg'
 import asd_platine from '../ressources/images/asd_platine.jpeg'
 import asd_embase from '../ressources/images/asd_embase.jpeg'
 import asd_grill from '../ressources/images/asd_grill.jpeg'
@@ -28,9 +29,15 @@ export default function Structure() {
 					price='5€ TTC'
 				/>
 				<Item
-					title="Angle 90 degrés"
+					title="Angle 90 degrés 2 directions"
 					imageUrl={asd_angle}
 					body="Angle 90 degrés qui permet de raccorder 2 barres ensemble. Manchons et goupilles de fixations fournis."
+					price='5€ TTC'
+				/>
+				<Item
+					title="Angle 90 degrés 3 directions"
+					imageUrl={asd_angle_3}
+					body="Angle 90 degrés qui permet de raccorder 3 barres ensemble. Manchons et goupilles de fixations fournis."
 					price='5€ TTC'
 				/>
 				<Item

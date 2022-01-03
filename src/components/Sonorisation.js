@@ -14,6 +14,7 @@ import shure_sm58 from '../ressources/images/shure_sm58.jpeg'
 import stageline_dm3s from '../ressources/images/stageline_dm3s.jpg'
 import shure_pg58 from '../ressources/images/shure_pg58.jpeg'
 import akg_wms420 from '../ressources/images/akg_wms420.jpeg'
+import pack_soiree from '../ressources/images/pack_soirée.jpg'
 
 export default function Sonorisation() {
 	return (
@@ -31,6 +32,12 @@ export default function Sonorisation() {
 						imageUrl={pioneer_cdj900}
 						body="Lecteur multi-format faisant partie des nouveaux modèles haut de gamme de chez Pioneer."
 						price='150€ TTC'
+					/>
+					<Item
+						title='Pack soirée'
+						imageUrl={pack_soiree}
+						body="Pack contenant 2 enceintes Mackie sur pieds, un micro, 2 jeux de lumières, ainsi qu'une console a laquelle raccorder un telephone ou un ordinateur."
+						price='90€ TTC'
 					/>
 					<Item
 						title='Yamaha MG16XU'
